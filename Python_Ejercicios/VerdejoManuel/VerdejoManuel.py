@@ -44,6 +44,7 @@ def main():
         elif opt == 7:
             for i in range(5):
                 media += pesos[i]
+            print(pesos)
             print(f"La media de peso es {media/5:.2f}")
             print(f"El precio máximo es {max(pesos)}")
             print(f"El precio mínimo es {min(pesos)}")
