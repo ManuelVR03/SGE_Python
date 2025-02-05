@@ -6,7 +6,10 @@ def main():
         destino = input("Introduce el nombre del fichero destino: ")
         with open(origen, "r") as f1:
             with open(destino, "w") as f2:
-                f2.write(f1.readline())
+                linea = f1.readline()
+                while linea:    
+                    f2.write(linea)
+                    linea = f1.readline()
     else:
         print("El fichero no existe")
         
