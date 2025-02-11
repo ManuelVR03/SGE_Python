@@ -1,19 +1,19 @@
 Categoría,Pregunta,Opciones,Respuesta,Nivel,Puntos
-matemáticas,¿Cuánto es 5 + 3?,"6, 7, 8, 9",8,fácil,1
-matemáticas,¿Cuál es la raíz cuadrada de 16?,"10, 11, 4, 12",4,medio,5
-matemáticas,Cual es el resultado de la expresion: sen(90º),"180º, 0, 90, 1",1,difícil,10
-videojuegos,¿Quién es el hermano de Mario en la saga de videojuegos de Super Mario?,"Luigi, Mario, Wario, Bowser",Luigi,fácil,1
-videojuegos,¿Qué bloque en Minecraft se utiliza para hacer un portal al Nether?,"Diamante, Obsidiana, Oro, Ladrillo de piedra",Obsidiana,medio,5
-videojuegos,"¿Cuál es el nombre completo del protagonista de ""The Legend of Zelda""?","Zelda, Link, Ganon, Epona",Link,difícil,10
-literatura,"¿Quién escribió ""Cien años de soledad""?","Gabriel García Márquez, Mario Vargas Llosa, Jorge Luis Borges, Isabel Allende",Gabriel García Márquez,fácil,1
-literatura,¿Quien escribio el lazarillo de Tormes?,"Anonimo, Sherlock Holmes, Philip Marlowe, Sam Spade",Anonimo,medio,5
-literatura,¿Quién escribió la obra Romeo y Julieta?,"William Shakespeare, Charles Dickens, Jane Austen, Edgar Allan Poe",William Shakespeare,difícil,10
-mitología,¿Quién es el dios del trueno en la mitología nórdica?,"Loki, Thor, Odin, Freyr",Thor,fácil,1
-mitología,¿Cuál es el equivalente griego del dios romano Júpiter?,"Ares, Zeus, Hades, Poseidón",Zeus,medio,5
-mitología,¿Qué función tenía Caronte en la mitología griega?,"dios de la guerra, dios del vino, barquero que transportaba las almas al inframundo, Era el guardián del monte Olimpo",barquero que transportaba las almas al inframundo,difícil,10
-música,¿Qué género canta Bad Bunny?,"Reguetón, Rock, Jazz, Blues",Reguetón,fácil,1
-música,¿Qué estilo es famoso por su ritmo bailable y letras en español?,"Salsa, Reguetón, Rock, Hip Hop",Reguetón,medio,5
-música,¿Qué género es conocido por artistas como Billie Eilish?,"Trap, Pop, Indie, R&B",Indie,difícil,10
-tecnología,"¿Qué significa la sigla ""CPU""?","Central Processing Unit, Computer Power Unit, Central Program Unit, Control Processing Unit",Central Processing Unit,fácil,1
-tecnología,¿En qué año se lanzó el primer iPhone?,"2005, 2007, 2009, 2011",2007,medio,5
-tecnología,¿Quién es el fundador de Microsoft?,"Steve Jobs, Bill Gates, Mark Zuckerberg, Elon Musk",Bill Gates,difícil,10
+matemáticas,¿Cuánto es 5 + 3?,"6,7,8,9",8,fácil,1
+matemáticas,¿Cuál es la raíz cuadrada de 16?,"10,11,4,12",4,medio,5
+matemáticas,Cual es el resultado de la expresion: sen(90º),"180º,0,90,1",1,difícil,10
+videojuegos,¿Quién es el hermano de Mario en la saga de videojuegos de Super Mario?,"Luigi,Mario,Wario,Bowser",Luigi,fácil,1
+videojuegos,¿Qué bloque en Minecraft se utiliza para hacer un portal al Nether?,"Diamante,Obsidiana,Oro,Ladrillo de piedra",Obsidiana,medio,5
+videojuegos,"¿Cuál es el nombre completo del protagonista de ""The Legend of Zelda""?","Zelda,Link,Ganon,Epona",Link,difícil,10
+literatura,"¿Quién escribió ""Cien años de soledad""?","Gabriel García Márquez,Mario Vargas Llosa,Jorge Luis Borges,Isabel Allende",Gabriel García Márquez,fácil,1
+literatura,¿Quien escribio el lazarillo de Tormes?,"Anonimo,Sherlock Holmes,Philip Marlowe,Sam Spade",Anonimo,medio,5
+literatura,¿Quién escribió la obra Romeo y Julieta?,"William Shakespeare,Charles Dickens,Jane Austen,Edgar Allan Poe",William Shakespeare,difícil,10
+mitología,¿Quién es el dios del trueno en la mitología nórdica?,"Loki,Thor,Odin,Freyr",Thor,fácil,1
+mitología,¿Cuál es el equivalente griego del dios romano Júpiter?,"Ares,Zeus,Hades,Poseidón",Zeus,medio,5
+mitología,¿Qué función tenía Caronte en la mitología griega?,"dios de la guerra,dios del vino,barquero que transportaba las almas al inframundo,Era el guardián del monte Olimpo",barquero que transportaba las almas al inframundo,difícil,10
+música,¿Qué género canta Bad Bunny?,"Reguetón,Rock,Jazz,Blues",Reguetón,fácil,1
+música,¿Qué estilo es famoso por su ritmo bailable y letras en español?,"Salsa,Reguetón,Rock,Hip Hop",Reguetón,medio,5
+música,¿Qué género es conocido por artistas como Billie Eilish?,"Trap,Pop,Indie,R&B",Indie,difícil,10
+tecnología,"¿Qué significa la sigla ""CPU""?","Central Processing Unit,Computer Power Unit,Central Program Unit,Control Processing Unit",Central Processing Unit,fácil,1
+tecnología,¿En qué año se lanzó el primer iPhone?,"2005,2007,2009,2011",2007,medio,5
+tecnología,¿Quién es el fundador de Microsoft?,"Steve Jobs,Bill Gates,Mark Zuckerberg,Elon Musk",Bill Gates,difícil,10
