@@ -48,7 +48,7 @@ def jugar():
 
     # Configuración de la ventana principal de Tkinter
     root = tk.Tk()
-    root.title("Juego de Trivia")
+    root.title("Trivial en Python")
     root.geometry("700x600")
     root.configure(bg="#282c34")
 

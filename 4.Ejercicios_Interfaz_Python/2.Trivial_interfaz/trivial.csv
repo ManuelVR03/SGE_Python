@@ -1,0 +1,13 @@
+Categoría,Nivel,Pregunta,Respuesta 1,Respuesta 2,Respuesta 3,Respuesta 4,Respuesta Correcta,Puntuación
+Ciencia,Fácil,¿Cuál es el símbolo químico del agua?,H2O,CO2,NaCl,CH4,H2O,1
+Ciencia,Medio,¿Cuál es el planeta más cercano al sol?,Mercurio,Venus,Tierra,Marte,Mercurio,2
+Ciencia,Difícil,¿Qué es la teoría de la relatividad general?,Una teoría sobre la gravedad,Una teoría sobre el electromagnetismo,Una teoría sobre la mecánica cuántica,Una teoría sobre la termodinámica,Una teoría sobre la gravedad,3
+Historia,Fácil,¿En qué año comenzó la Segunda Guerra Mundial?,1939,1945,1914,1929,1939,1
+Historia,Medio,¿Quién fue el primer presidente de los Estados Unidos?,George Washington,John Adams,Thomas Jefferson,Abraham Lincoln,George Washington,2
+Historia,Difícil,¿Cuál fue la causa principal de la Revolución Francesa?,La desigualdad social,La crisis económica,La hambruna,Todas las anteriores,Todas las anteriores,3
+Deportes,Fácil,¿Cuántos jugadores hay en un equipo de fútbol?,11,10,9,12,11,1
+Deportes,Medio,¿Quién es considerado el mejor jugador de baloncesto de todos los tiempos?,Michael Jordan,LeBron James,Kareem Abdul-Jabbar,Bill Russell,Michael Jordan,2
+Deportes,Difícil,¿En qué año se celebraron los primeros Juegos Olímpicos modernos?,1896,1900,1904,1908,1896,3
+Entretenimiento,Fácil,¿Quién es el creador de Mickey Mouse?,Walt Disney,Ub Iwerks,Roy Disney,Charles Mintz,Walt Disney,1
+Entretenimiento,Medio,¿Cuál es el nombre del famoso mago que protagoniza una serie de libros y películas?,Harry Potter,Hermione Granger,Ron Weasley,Albus Dumbledore,Harry Potter,2
+Entretenimiento,Difícil,¿Quién dirigió la película 'El Padrino'?,Francis Ford Coppola,Martin Scorsese,Steven Spielberg,Quentin Tarantino,Francis Ford Coppola,3
